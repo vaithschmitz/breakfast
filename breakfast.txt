@@ -3,4 +3,9 @@ i was late
 no breakfast
 i'm hungry
 
+<<<<<<< HEAD
 milkshakes and earthquakes
+=======
+Bob’s breakfast for today:
+Zacusca
+>>>>>>> 289c8f5addb8fd620a6e112b912847d97f3fdb13
